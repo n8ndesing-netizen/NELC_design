@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 200">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: #9154b5;
+      }
+
+      .cls-3 {
+        fill: #f0e6f4;
+      }
+
+      .cls-2 {
+        font-family: DINNextLTArabic-Regular, 'DIN Next LT Arabic';
+        font-size: 26.23px;
+      }
+    </style>
+  </defs>
+  <rect class="cls-1" width="400" height="200"/>
+  <g>
+    <rect class="cls-3" x="118.56" y="74.38" width="162.89" height="51.24" rx="25.62" ry="25.62"/>
+    <text class="cls-2" transform="translate(146.27 109.72)"><tspan x="0" y="0">اضـغـط هــنا</tspan></text>
+  </g>
+</svg>
