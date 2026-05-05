@@ -21,9 +21,14 @@ A structured design system for NELC covering brand identity, reusable components
 
 ### Icons
 
+#### Filled Icons
 <p align="center">
-  <img src="./branding/icons/icon-filled/preview/preview.png" width="45%"/>
-  <img src="./branding/icons/icon-outline/preview/preview.png" width="45%"/>
+  <img src="./branding/icons/icon-filled/preview/preview.png" width="70%"/>
+</p>
+
+#### Outline Icons
+<p align="center">
+  <img src="./branding/icons/icon-outline/preview/preview.png" width="70%"/>
 </p>
 
 ---
@@ -79,27 +84,51 @@ A structured design system for NELC covering brand identity, reusable components
 
 ## Templates
 
+### Portrait 4:5
 <p align="center">
-  <img src="./Templates/social-posts/portrait-4x5/preview/preview.png" width="45%"/>
-  <img src="./Templates/social-posts/square-1x1/preview/preview.png" width="45%"/>
+  <img src="./Templates/social-posts/portrait-4x5/preview/grid.png" width="30%"/>
+  <img src="./Templates/social-posts/portrait-4x5/preview/margin.png" width="30%"/>
+  <img src="./Templates/social-posts/portrait-4x5/preview/footer.png" width="30%"/>
 </p>
 
+---
+
+### Square 1:1
 <p align="center">
-  <img src="./Templates/social-posts/landscape-2x1/preview/footer.png" width="45%"/>
-  <img src="./Templates/social-posts/reels-9x16/preview/preview.png" width="45%"/>
+  <img src="./Templates/social-posts/square-1x1/preview/grid.png" width="30%"/>
+  <img src="./Templates/social-posts/square-1x1/preview/margin.png" width="30%"/>
+  <img src="./Templates/social-posts/square-1x1/preview/footer.png" width="30%"/>
+</p>
+
+---
+
+### Landscape 2:1
+<p align="center">
+  <img src="./Templates/social-posts/landscape-2x1/preview/grid.png" width="30%"/>
+  <img src="./Templates/social-posts/landscape-2x1/preview/margin.png" width="30%"/>
+  <img src="./Templates/social-posts/landscape-2x1/preview/footer.png" width="30%"/>
+</p>
+
+---
+
+### Reels 9:16
+<p align="center">
+  <img src="./Templates/social-posts/reels-9x16/preview/grid.png" width="30%"/>
+  <img src="./Templates/social-posts/reels-9x16/preview/margin.png" width="30%"/>
+  <img src="./Templates/social-posts/reels-9x16/preview/footer.png" width="30%"/>
 </p>
 
 ---
 
 ## Usage
 
-Use these assets and templates to maintain visual consistency across campaigns, communication materials, and digital touchpoints.
+Use these assets and templates to maintain consistent visual output across campaigns, communication materials, and digital platforms.
 
 ---
 
 ## Structure
 
-- branding/
-- Components/
-- Foundations/
-- Templates/
+- branding/  
+- Components/  
+- Foundations/  
+- Templates/  
