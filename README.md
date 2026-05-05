@@ -1,6 +1,6 @@
 # NELC Design System
 
-A structured design system for NELC covering brand identity, reusable components, and ready-to-use templates.
+A structured design system for NELC covering brand identity, reusable components, foundations, and ready-to-use templates.
 
 ---
 
@@ -22,8 +22,8 @@ A structured design system for NELC covering brand identity, reusable components
 ### Icons
 
 <p align="center">
-  <img src="./branding/icons/icon_filled/exports/preview/preview.png" width="45%"/>
-  <img src="./branding/icons/icon_outline/exports/preview/preview.png" width="45%"/>
+  <img src="./branding/icons/icon-filled/preview/preview.png" width="45%"/>
+  <img src="./branding/icons/icon-outline/preview/preview.png" width="45%"/>
 </p>
 
 ---
@@ -85,7 +85,7 @@ A structured design system for NELC covering brand identity, reusable components
 </p>
 
 <p align="center">
-  <img src="./Templates/social-posts/landscape-2x1/preview/preview.png" width="45%"/>
+  <img src="./Templates/social-posts/landscape-2x1/preview/footer.png" width="45%"/>
   <img src="./Templates/social-posts/reels-9x16/preview/preview.png" width="45%"/>
 </p>
 
@@ -93,13 +93,13 @@ A structured design system for NELC covering brand identity, reusable components
 
 ## Usage
 
-Use templates and assets to maintain consistent visual output across campaigns and communication channels.
+Use these assets and templates to maintain visual consistency across campaigns, communication materials, and digital touchpoints.
 
 ---
 
 ## Structure
 
-- branding/  
-- Components/  
-- Foundations/  
-- Templates/  
+- branding/
+- Components/
+- Foundations/
+- Templates/
